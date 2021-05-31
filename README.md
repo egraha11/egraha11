@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Evan Graham
-- 👀 I’m interested in Java and Python application development
-- 🌱 I'm currently learning React and Python's Django framework
+- 👀 I’m interested in Java, Node JS and Python application and web development
 - 📫 You can reach me at egraha11@kent.edu
 
 <!---
