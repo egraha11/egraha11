@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evan Graham
-- 👀 I’m interested in Java, Node JS and Python application and web development
+- 👀 I’m interested in machine learning, forecasting and statstics
 - 📫 You can reach me at egraha11@kent.edu
 
 <!---
