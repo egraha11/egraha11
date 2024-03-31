@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evan Graham
-- 👀 I’m interested in machine learning, forecasting and statstics
+- 👀 I’m interested in machine learning, forecasting and statistics
 - 📫 You can reach me at egraha11@kent.edu
 
 <!---
